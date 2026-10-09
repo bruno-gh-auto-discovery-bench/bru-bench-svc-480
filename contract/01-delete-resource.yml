@@ -1,0 +1,6 @@
+info:
+  name: delete 1
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/pricing-contract-4/1

@@ -1,0 +1,6 @@
+info:
+  name: list 7
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/pricing-staging-2/7
